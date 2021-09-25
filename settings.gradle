@@ -1,0 +1,3 @@
+include ':frostglass'
+include ':app'
+rootProject.name = "FrostGlass"
